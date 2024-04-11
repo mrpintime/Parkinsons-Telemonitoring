@@ -158,7 +158,7 @@ By pursuing these next steps, we aim to translate our research findings into tan
 
 # Contributing
 
-## Contributing to EEG-Based Seizure Detection and Analysis
+## Contributing to Parkinsons-Telemonitoring Analysis
 
 I highly appreciate contributions and are excited to collaborate with the community on this data science project. Whether it's through data analysis, model improvement, documentation, or reporting issues, your input is valuable. Here’s how you can contribute:
 
@@ -203,7 +203,7 @@ I highly appreciate contributions and are excited to collaborate with the commun
 - Update documentation and test cases for substantial changes.
 - Keep your submissions focused and relevant to the project's goals.
 
-Your contributions play a vital role in the success and improvement of EEG-Based Seizure Detection and Analysis. We look forward to your innovative ideas and collaborative efforts!
+Your contributions play a vital role in the success and improvement of Parkinsons-Telemonitoring Analysis. We look forward to your innovative ideas and collaborative efforts!
 
 # License
 - This project is licensed under the MIT License - see the `LICENSE.md` file for details.
